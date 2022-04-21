@@ -1,0 +1,17 @@
+IDC_MYICON        equ              2
+IDD_TETRIS_WIN32_DIALOG   equ      102
+IDS_APP_TITLE       equ            103
+IDD_ABOUTBOX        equ            103
+IDM_ABOUT            equ           104
+IDM_GAME_EXIT             equ           105
+IDI_SMALL            equ           108
+IDR_MENU1              equ          109
+IDR_MAINFRAME        equ           128
+IDI_ICON1            equ           129
+IDB_BITMAP1          equ           138
+IDI_ICON2            equ           140
+IDI_ICON3            equ           141
+IDI_ICON4            equ           143
+IDM_START_GAME       equ           2772
+IDM_GAME_PAUSE            equ           2776
+IDC_STATIC           equ           -1
